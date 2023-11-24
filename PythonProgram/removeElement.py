@@ -29,7 +29,7 @@ def main(nums, number):
 if __name__ == '__main__':
     # Initialize arguments parser
     parser = argparse.ArgumentParser()
-    # Add elements
+    # Add elements and get element to remove from the list as a user input from command line
     parser.add_argument('elementToRemove', help="elementToRemove", type=int)
     
     args = parser.parse_args()
