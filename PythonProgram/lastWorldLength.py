@@ -1,3 +1,4 @@
+# This program finds Last word length in a string
 import argparse
 
 def lastWorldLength(lastWorldLengthString):
