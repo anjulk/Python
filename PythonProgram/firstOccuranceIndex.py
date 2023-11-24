@@ -1,3 +1,5 @@
+# Find first occurance of a string inside another string and return Index
+# This function returns -1 if the string is not found
 def firstOccuranceIndex( ):
     inputString = input('Input your string  ')
     firstOccurance = input('Input string to be found ')
